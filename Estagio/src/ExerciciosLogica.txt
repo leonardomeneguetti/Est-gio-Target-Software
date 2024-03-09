@@ -5,4 +5,6 @@ Exercicio 3b - 2, 4, 8, 16, 32, 64, 128 - 2^n
 Exercicio 3c - 0, 1, 4, 9, 16, 25, 36, 49 - n^2
 Exercicio 3d - 4, 16, 36, 64, 100 - numeros pares^2
 Exercicio 3e - 1, 1, 2, 3, 5, 8, 13 - Fibonacci
-Exercicio 3f - 2, 10, 12, 16, 17, 18, 19,  - 
+Exercicio 3f - 2, 10, 12, 16, 17, 18, 19, 200  - numeros que começam com d
+
+Exercício 4 - Ligaria dois dos interruptores e iria para uma das salas, se a lâmpada não estiver acesa, então o interruptor que eu não liguei seria o dela, então eu voltaria para a sala dos interruptores e desligaria um dos que eu liguei e iria para uma das salas que eu não fui ainda, se não estiver acessa, eu saberei que o que eu desliguei é o interruptor dessa sala e o outro é o da sala que não visitei, se não estiver acesa, o interruptor dela é o que eu deixei ligado e o outro é o da sala que não visitei.
